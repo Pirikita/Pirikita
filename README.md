@@ -3,12 +3,15 @@
 - 🚧 I'm a junior dev under construction.
 - ⚡Fun fact: I speak 4 human languages and I'm learning the 5th one. 
 - 📫 How to reach me: beatriz.oliveira.work@gmail.com & [LinkedIn](www.linkedin.com/in/beatriz-marques-oliveiraaa) 
-
-  **Formation:** 
+  <br>
+  <br>
+  📚 **Formation:**
+  <br>
 - 👩🏼‍💻 Womenpreneur Tech Program - Womenpreneur Initiative Belgium
 - 👩🏼‍💻 Intro to Digital - HACK YOUR FUTURE - BELGIUM
 - 👩🏼‍💻 Intro to Programming - HACK YOUR FUTURE - BELGIUM
-
+  <br>
+  <br>
   🤓  **What I know**
   <br>
   ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
