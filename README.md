@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @Pirikita, oficially Beatriz Oliveira
-- 👀 I’m interested in Magic the Gathering, Formula 1 and sitcoms :)
-- 🌱 I’m currently learning how to code.
-- 📫 How to reach me: beatriz.oliveira.work@gmail.com
-- ⚡ Fun fact: I speak 4 languages and I'm learning the 5th one. 
+# 👋 Hi, I'm Beatriz !
+
+- 🚧 I'm a junior dev under construction.
+- ⚡Fun fact: I speak 4 human languages and I'm learning the 5th one. 
+- 📫 How to reach me: beatriz.oliveira.work@gmail.com & [LinkedIn](www.linkedin.com/in/beatriz-marques-oliveiraaa) 
+
+  **Formation:** 
+- 👩🏼‍💻 Womenpreneur Tech Program - Womenpreneur Initiative Belgium
+- 👩🏼‍💻 Intro to Digital - HACK YOUR FUTURE - BELGIUM
+- 👩🏼‍💻 Intro to Programming - HACK YOUR FUTURE - BELGIUM
+
+  🤓  **What I know**
+  <br>
+  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+  ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+  ![GitHub](https://img.shields.io/badge/-Github-ffffff?style=flat-square&logo=github&logoColor=black)
+  ![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+  
+
+
 
 <!---
 Pirikita/Pirikita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
