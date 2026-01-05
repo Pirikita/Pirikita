@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Beatriz !
 
-- 🚧 I'm a junior dev under construction.
+- 🚧 I'm a junior cybersecurity analyst in construction.
 - ⚡Fun fact: I speak 4 human languages and I'm learning the 5th one. 
 - 📫 How to reach me: beatriz.oliveira.work@gmail.com & [LinkedIn](www.linkedin.com/in/beatriz-marques-oliveiraaa) 
   <br>
@@ -10,6 +10,7 @@
 - 👩🏼‍💻 Womenpreneur Tech Program - Womenpreneur Initiative Belgium
 - 👩🏼‍💻 Intro to Digital - HACK YOUR FUTURE - BELGIUM
 - 👩🏼‍💻 Intro to Programming - HACK YOUR FUTURE - BELGIUM
+- 👩🏼‍💻 Womenpreneur Tech Program Cybersecurity - Womenpreneur Initiative Belgium
   <br>
   <br>
   🤓  **What I know**
