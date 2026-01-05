@@ -2,7 +2,7 @@
 
 - 🚧 I'm a junior cybersecurity analyst in construction.
 - ⚡Fun fact: I speak 4 human languages and I'm learning the 5th one. 
-- 📫 How to reach me: beatriz.oliveira.work@gmail.com & [LinkedIn](www.linkedin.com/in/beatriz-marques-oliveiraaa) 
+- 📫 How to reach me: beatriz.oliveira.work@gmail.com & [LinkedIn](www.linkedin.com/in/beatriz-marques-oliveiraaa/) 
   <br>
   <br>
   📚 **Formation:**
