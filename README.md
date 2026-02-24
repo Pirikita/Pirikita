@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Beatriz !
 
-- 🚧 I'm a junior cybersecurity analyst and junior dev under construction.
+- 🚧 I'm a junior cybersecurity analyst learning my way up to become a Pentester.🥷🏻
 - ⚡Fun fact: I speak 4 human languages and I'm learning the 5th one. 
 - 📫 How to reach me: beatriz.oliveira.work@gmail.com & [LinkedIn](https://www.linkedin.com/in/beatriz-marques-oliveiraaa/) 
   <br>
   <br>
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Pirikita.png" alt="TryHackMe Badge" width="300"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Pirikita.png" alt="TryHackMe Badge" width="400"/>
 </p>
 
   
