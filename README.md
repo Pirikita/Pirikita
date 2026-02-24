@@ -16,6 +16,8 @@
 - 👩🏼‍💻 Intro to Digital - HACK YOUR FUTURE - BELGIUM
 - 👩🏼‍💻 Intro to Programming - HACK YOUR FUTURE - BELGIUM
 - 👩🏼‍💻 Womenpreneur Tech Program Cybersecurity - Womenpreneur Initiative Belgium
+- 👩🏼‍💻 SUMMER SCHOOL: CYBERSECURITY - DigitalCity - BELGIUM
+
   <br>
   <br>
   🤓  **What I know**
